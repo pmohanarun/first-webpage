@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar{
+    background-color: rgb(12, 38, 61);
+    height: 70px;
+    color: white;
+    display: flex;
+    
+}
+
+.rsetlogo{
+    height: 70px;
+    width: 100px;
+}
+
+.logo{
+background-image:  url("./rset\ logo.png") ;
+height: 70px;
+width: 100px;
+background-size: cover;
+}
+
+.col1{
+    position: relative;
+    color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20PX;
+    margin-left: 10px;
+    margin-right:10px;
+    ;
+}
+.col2{
+    position: relative;
+    margin-left: 20px;
+    margin-right:10px;
+
+    ;
+}
+
+.colg-logo{
+position: relative;
+left: 25px;
+}
+
+.nav-search{
+    margin-top: 10px;
+}
+.foodimage{
+    margin-left: 100px;
+}
+
+
